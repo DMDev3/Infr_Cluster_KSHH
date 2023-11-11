@@ -1,4 +1,4 @@
-CLT (Central limit theorem)
+Deployment infrastructural cluster Kafka, Spark, Hive, Hadoop for CLT (Central limit theorem)
 =================================================================================================================
 
 ### Discleimer!
