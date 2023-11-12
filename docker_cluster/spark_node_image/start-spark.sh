@@ -1,6 +1,7 @@
 #!/bin/bash
 
 
+
 . "/opt/spark/bin/load-spark-env.sh"
 
 if [ "$SPARK_WORKLOAD" == "master" ];
@@ -23,4 +24,4 @@ else
 fi
 
 
-# -- end of file
+# -- end of file 2
