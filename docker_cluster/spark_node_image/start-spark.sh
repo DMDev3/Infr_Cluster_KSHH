@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 . "/opt/spark/bin/load-spark-env.sh"
 
 if [ "$SPARK_WORKLOAD" == "master" ];
@@ -20,3 +21,6 @@ then
 else
     echo "Undefined Workload Type $SPARK_WORKLOAD, must specify: master, worker, submit"
 fi
+
+
+# -- end of file
